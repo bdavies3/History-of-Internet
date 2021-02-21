@@ -2,13 +2,13 @@
 
 https://bdavies3.github.io/History-of-Internet/
 
-[Home Page](home.html)
+[Home Page](Website Pages/home.html)
 
-[About Page](about.html)
+[About Page](Website Pages/about.html)
 
-[Team Page](team.html)
+[Team Page](Website Pages/team.html)
 
-[History Page](history.html)
+[History Page](Website Pages/history.html)
 
 ![Pexels pic](images/pexels-markus-spiske-1089438.jpg)
 
